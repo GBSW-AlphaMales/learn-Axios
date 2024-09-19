@@ -1,4 +1,12 @@
-# Axios + Spring 
+# 🔗 `Axios + Spring`
+
+## How to use?
+In the project directory, you can run:
+
+### `yarn`
+### `yarn start`
+
+---
 
 ## 1. Build.gradle
 - `Build.gradle` 파일을 열어 빌드를 시켜줍니다.
@@ -17,7 +25,6 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
-
 ```
 
 ## 3. 서버 실행 방법
